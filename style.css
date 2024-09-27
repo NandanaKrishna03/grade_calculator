@@ -1,0 +1,31 @@
+#mark-form{
+    align-items: center;
+    margin-left: 560px;
+    margin-top: 200px;
+    margin-right:480px;
+    border: 2px solid black;
+    padding: 20px 10px 80px 10px;
+    background-color: white;
+}
+#btn{
+    width: 300px;
+}
+h3{
+    margin-top: 50px;
+    margin-left: 580px;
+}
+#mark{
+    border: 1px solid black;
+}
+#outputDisplay{
+    color: blueviolet;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+}
+#outputDisplay2{
+    color:brown;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+}
